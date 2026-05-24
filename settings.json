@@ -6,11 +6,11 @@
     "type": "offline"
   },
   "server": {
-    "ip": " ThefriendsdeadlyPVP.aternos.me:46036",
+    "ip": " ThefriendsdeadlyPVP.aternos.me",
     "port": 46036,
     "version": "",
     "try-creative": false
-  },
+  }
   "position": {
     "enabled": true,
     "x": 0,
