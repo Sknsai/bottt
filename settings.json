@@ -1,7 +1,7 @@
 {
-  "name": "opkiller3",
+  "name": "ironguy",
   "bot-account": {
-    "username": "OPkiller3",
+    "username": "ironguy",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "opkiller293"
+      "password": "ironguy8989898"
     },
     "anti-afk": {
       "enabled": true,
