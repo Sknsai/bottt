@@ -11,48 +11,46 @@
     "version": "1.21.11",
     "try-creative": false
   },
+
   "position": {
-    "enabled": true,
-    "x": 1,
-    "y": 100,
-    "z": 0
+    "enabled": false
   },
+
   "utils": {
     "auto-auth": {
       "enabled": true,
       "password": "PANC"
     },
+
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
+
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 999999999,
-      "messages": []
+      "enabled": false
     },
+
     "chat-log": false,
+
     "auto-reconnect": true,
-    "auto-reconnect-delay": 15000,
+    "auto-reconnect-delay": 20000,
     "max-reconnect-delay": 60000
   },
+
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "look-around": {
-      "enabled": true,
-      "interval": 4000
+      "enabled": false
     },
     "random-jump": {
-      "enabled": false,
-      "interval": 15000
+      "enabled": false
     },
     "circle-walk": {
-      "enabled": false,
-      "radius": 3,
-      "speed": 0
+      "enabled": false
     }
   },
+
   "modules": {
     "avoidMobs": false,
     "combat": false,
@@ -60,23 +58,16 @@
     "chat": false,
     "console-commands": true
   },
+
   "combat": {
     "attack-mobs": false,
     "auto-eat": false
   },
-  "beds": {
-    "pick-up-day": false,
-    "place-night": false
-  },
+
   "discord": {
-    "enabled": false,
-    "webhookUrl": "",
-    "events": {
-      "connect": false,
-      "disconnect": false,
-      "chat": false
-    }
+    "enabled": false
   },
+
   "chat": {
     "respond": false
   }
