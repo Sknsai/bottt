@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "pinciiafkk",
+    "username": "PANCbot",
     "password": "PANC",
     "type": "offline"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "PANC"
     },
     "anti-afk": {
       "enabled": true,
@@ -38,9 +38,9 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
-    "auto-reconnect-delay": 6000,
-    "max-reconnect-delay": 999999999999999
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 1500,
+    "max-reconnect-delay": 60000
   },
   "movement": {
     "enabled": false,
