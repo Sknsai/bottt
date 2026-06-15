@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tbao.seedloaf.gg",
-    "port": 25565,
-    "version": "",
+    "ip": "frenchies.seedloaf.gg",
+    "port": 19132,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
