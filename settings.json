@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "Darkspace.aternos.me",
+    "ip": "pencilsmelt.aternos.host:55566",
     "port": 55566,
     "version": "1.21.11",
     "try-creative": true
