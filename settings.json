@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "beaconsmp.joinmc.world",
-    "port": 49479,
+    "ip": "BeaconSMP-DrTu.aternos.me",
+    "port": 50955,
     "version": "26.1.2",
     "try-creative": false
   },
