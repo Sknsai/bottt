@@ -1213,7 +1213,8 @@ async function resolveBotVersion() {
       `[Bot] Could not parse server version from ping response: ${response?.version?.name || "Unknown"}`,
     );
   } catch (err) {
-    addLog(`[Bot] Version ping failed: ${err.message}`);
+    const msg = err instanceof Error ? err.message : String(err);
+    addLog(`[Bot] Version ping failed: ${msg}`);
   }
 
   return null;
