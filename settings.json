@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "mythicbound.aternos.me",
+    "port": 44494,
     "version": "",
     "try-creative": false
   },
